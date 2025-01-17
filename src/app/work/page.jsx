@@ -83,7 +83,6 @@ function CaseStudies({ caseStudies }) {
   )
 }
 
-
 export const metadata = {
   title: 'My Work',
   description:
