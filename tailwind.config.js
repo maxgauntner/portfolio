@@ -22,9 +22,9 @@ module.exports = {
         '4xl': '2.5rem',
       },
       fontFamily: {
-        sans: ['Sofia Sans', ...defaultTheme.fontFamily.sans],
+        sans: ['Mona Sans', ...defaultTheme.fontFamily.sans],
         display: [
-          ['Sofia Sans', ...defaultTheme.fontFamily.sans],
+          ['Mona Sans', ...defaultTheme.fontFamily.sans],
           { fontVariationSettings: '"wdth" 100' },
         ],
       },
