@@ -18,7 +18,7 @@ export function Logomark({ invert = false, filled = false, ...props }) {
         href={`#${id}-path`}
         className={invert ? 'stroke-white' : 'stroke-neutral-950'}
         fill="none"
-        strokeWidth="2"
+        strokeWidth="1.5"
       />
       <defs>
         <path
